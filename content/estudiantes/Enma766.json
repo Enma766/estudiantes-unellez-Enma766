@@ -1,0 +1,31 @@
+
+{
+    "name":"Enmanuel Linares",
+    "aboutMe":"Soy Enmanuel Linares, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando Octavo Semestre en la UNELLEZ. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo desarrollo web y ciberseguridad].",
+    "softSkills":[
+        "Liderazgo",
+        "Comunicación",
+        "Adaptabilidad",
+        "Responsabilidad"
+    ],
+    "techSkills":[
+        "Javascript",
+        "HTML/CSS",
+        "Firebase",
+        "Python"
+    ],
+    "experience":[
+        {
+            "organization":"UNELLEZ",
+            "role":"Estudiante",
+            "since":2022,
+            "description":"Estudiante de Ingenieria Informatica"
+        }
+    ],
+    "contact":[
+        {"name":"Github",
+        "url":"https://github.com/Enma766",
+        "icon":"mdiGithub"
+        }
+    ]
+}
