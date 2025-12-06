@@ -1,7 +1,7 @@
 
 {
     "name":"Enmanuel Linares",
-    "aboutMe":"Soy Enmanuel Linares, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando Septimo Semestre en la UNELLEZ. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo desarrollo web y ciberseguridad].",
+    "aboutMe":"Soy Enmanuel Linares, un estudiante apasionado de la Ingeniería en Informática. Actualmente me encuentro cursando Octavo Semestre en la UNELLEZ. Mi interés por la tecnología y la resolución de problemas me ha llevado a explorar diversas áreas dentro de la informática, incluyendo desarrollo web y ciberseguridad].",
     "softSkills":[
         "Liderazgo",
         "Comunicación",
@@ -11,7 +11,8 @@
     "techSkills":[
         "Javascript",
         "HTML/CSS",
-        "Firebase"
+        "Firebase",
+        "Python"
     ],
     "experience":[
         {
